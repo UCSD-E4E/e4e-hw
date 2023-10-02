@@ -10,6 +10,8 @@ Design scope should not involve more than 1 quarter of effort from a 3 student t
 ## Design Tasking
 The Hardware Group Manager should assign the tasking to a group of no more than 3 students with sufficient skills to take on this task.  If there are no students with the appropriate background skills, then this task may be assigned to students who have interest and sufficient background to learn the appropriate skills, with the expectation that the students will make efforts to learn the relevant skills.
 
+Tasking defined here: https://trello.com/b/6EH1G41L/e4e-hardware
+
 # Procedures
 Documentation should live in one of the following locations:
 - E4E HW GitHub Wiki

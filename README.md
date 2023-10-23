@@ -7,6 +7,8 @@ The requirements of any task/design effort originate from a project. These must 
 
 Design scope should not involve more than 1 quarter of effort from a 3 student team (300 person-hours).  Designs that require more than this must be broken up into 1 quarter phases and/or parallel design efforts.
 
+Design tasking requiring less than 2 week turnaround MUST be assigned to a team that can put in at least 20 person-hours per week and that have demonstrated an ability to execute similar tasking under similar time pressures.
+
 ## Design Tasking
 The Hardware Group Manager should assign the tasking to a group of no more than 3 students with sufficient skills to take on this task.  If there are no students with the appropriate background skills, then this task may be assigned to students who have interest and sufficient background to learn the appropriate skills, with the expectation that the students will make efforts to learn the relevant skills.
 

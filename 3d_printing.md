@@ -23,4 +23,10 @@
 10. Slice and print https://www.3dbenchy.com/ or other pending (draft) job
 
 ## Filament Change Procedure:
-TBD
+### For users:
+On filament runout:
+1. Discard previous spool
+2. Open new spool
+3. Take a picture of the spool information (Brand, material, diameter, color, weight, lot number) and put it in the 3d-printing channel in Slack
+4. Open OcotoPrint and copy the current filament usage into the 3d-printing channel in Slack
+5. Follow the instructions on the Prusa i3 mk3 to unload the old filament and load new filament

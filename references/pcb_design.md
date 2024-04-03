@@ -1,0 +1,1 @@
+- Digital I/O Modes: https://open4tech.com/open-drain-output-vs-push-pull-output/
